@@ -1,0 +1,138 @@
+* {
+  font-family: 'Ubuntu', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; 
+}
+#container {
+  padding: 40px;
+}
+header {
+  margin-bottom: 25px;
+  margin-left: 20px;
+}
+header h1 {
+  margin-bottom: 5px;
+}
+header .sub-title-header {
+  font-size: 20px;
+  opacity: 0.3;
+  font-weight: bold;
+}
+#ul-header {
+  display: flex;
+}
+header ul {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+  margin-right: 50px;
+  list-style-type: none;
+  font-size: 20px;
+}
+
+
+
+#experience {
+  margin-top: 25px;
+  margin-left: 20px;
+  margin-bottom: 25px;
+}
+#experience h1 {
+  margin-bottom: 20px;
+}
+#experience h2 {
+  opacity: 0.8;
+}
+#experience h3 {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 30px;
+}
+#experience .company-1 {
+  margin-top: 25px;
+}
+
+#experience .activities-2 {
+  margin-left: 30px;
+  font-size: 20px;
+}
+
+#experience .activities-1 {
+  margin-left: 30px;
+  font-size: 20px;
+}
+
+
+
+#formation {
+  margin-left: 20px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+#formation h1 {
+  margin-bottom: 20px;
+}
+#formation h2{
+  margin-top: 25px;
+  margin-bottom: 5px ;
+}
+#formation span {
+  font-size: 20px;
+}
+
+
+
+#skills {
+  margin-top: 25px;
+  margin-bottom: 25px;
+  margin-left: 20px;
+}
+#skills h1 {
+  margin-bottom: 20px;
+}
+#skills ul li {
+  list-style-type: none;
+  margin-left: 25px;
+  font-size: 20px;
+}
+
+
+
+#languages {
+  margin-top: 25px;
+  margin-bottom: 25px;
+  margin-left: 20px;
+}
+#languages ul li {
+  list-style-type: none;
+  margin-top: 10px;
+  margin-left: 20px;
+  font-size: 20px;
+}
+
+
+
+#interest-profissional {
+  margin-top: 25px;
+  margin-bottom: 25px;
+  margin-left: 20px;
+  max-width: 600px;
+}
+
+#interest-profissional h1 {
+  margin-bottom: 15px;
+}
+
+#interest-profissional span {
+  font-size: 25px;
+}
+
+
+
+
+
+
+
+
+
