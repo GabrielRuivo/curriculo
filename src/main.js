@@ -1,5 +1,5 @@
 import api from './api'
-import theme from './theme'
+import getStyle from './theme'
 
   async function renderExperience() {
     const response = await api.get("http://demo7006223.mockable.io/");

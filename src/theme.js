@@ -1,8 +1,6 @@
 const html = document.querySelector('html');
 const checkbox = document.querySelector('input[name=theme]');
 
-const theme = () => 
-  console.log('roodando')
     const getStyle = (element, style) => 
     window
     .getComputedStyle(element)
@@ -35,4 +33,4 @@ const theme = () =>
   })
 
 
-export default theme;
+export default getStyle;
